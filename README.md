@@ -14,7 +14,7 @@ To copy images from a loaction with many sub directories a modifed version
 of the script is available. This allows to provide sub directory paths with
 the file name to facilitate faster copying. The list has to be a text file
 with one file per line, the path of the sub directory is followed by the 
-file name and both strings are separated by a ";". 
+file name and both strings are separated by a ";". (see copyList_subdir.txt for an exmaple)
 
 
 Run the shell script from your Linux machine / Mac:
