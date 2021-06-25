@@ -17,7 +17,7 @@ with one file per line, the path of the sub directory is followed by the
 file name and both strings are separated by a ";". (see copyList_subdir.txt for an exmaple)
 
 
-Run the shell script from your Linux machine / Mac:
+Run the shell script on your Linux machine / Mac:
 ```
 ./findImages.sh copyList.txt
 ```
