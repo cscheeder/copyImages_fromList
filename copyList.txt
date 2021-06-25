@@ -1,0 +1,2 @@
+myImage1.tif
+myImage2.tif
