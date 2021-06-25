@@ -25,5 +25,5 @@ done < $1
 
 
 # adopted from:
- https://stackoverflow.com/questions/29311880/finding-files-from-list-and-copying-them-into-new-directory
+#	https://stackoverflow.com/questions/29311880/finding-files-from-list-and-copying-them-into-new-directory
 
