@@ -1,7 +1,7 @@
 #!/bin/bash
 sourceDir=""
 destinationDir=""
-#destinationDir="/Users/user/Desktop/test"
+
 
 while read line
 do
