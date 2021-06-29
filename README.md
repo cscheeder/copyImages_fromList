@@ -4,11 +4,11 @@ Simple shell script to copy files as defined in a list.
 
 This repository contains a small shell script which can be used to copy 
 a list of files (e.g. images). The files to be copied are defined in a 
-text file (copyList.txt in the example). The scripts works over subdirectories,
+text file with file names being separated by "\n" (copyList.txt in the example). The scripts works over subdirectories,
 the directory structure is however flatened out. 
 
 The shell script has two variables representing the source (source directory to search for files) 
-and target directory (directory to copy the images to).
+and target directory (directory to copy the files to).
 
 To copy images from a loaction with many sub directories a modifed version
 of the script is available. This allows to provide sub directory paths with
